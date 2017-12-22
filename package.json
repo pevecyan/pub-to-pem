@@ -1,0 +1,19 @@
+{
+  "name": "pub-to-pem",
+  "version": "1.0.0",
+  "description": "Convert ssh-keygen pub to pem",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pevecyan/pub-to-pem.git"
+  },
+  "author": "Žan Pevec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pevecyan/pub-to-pem/issues"
+  },
+  "homepage": "https://github.com/pevecyan/pub-to-pem#readme"
+}
